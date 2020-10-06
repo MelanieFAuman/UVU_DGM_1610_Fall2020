@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
     //Movement of player
     public float horizontalInput;
     public float speed = 10f;
-    public float xRange = 10;
+    public float xRange = 24;
 
     //Launching of prefab food
     public GameObject projectilePrefab;
