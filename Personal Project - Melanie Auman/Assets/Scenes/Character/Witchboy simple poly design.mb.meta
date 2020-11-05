@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 82404d92120e4904a95501781c21167e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: pCube1
+    100002: pCube1 1
+    100004: pCube10
+    100006: pCube10 1
+    100008: pCube2
+    100010: pCube2 1
+    100012: pCube3
+    100014: pCube3 1
+    100016: pCube4
+    100018: pCube4 1
+    100020: pCube5
+    100022: pCube5 1
+    100024: pCube6
+    100026: pCube6 1
+    100028: pCube7
+    100030: pCube7 1
+    100032: pCube8
+    100034: pCube8 1
+    100036: pCube9
+    100038: pCube9 1
+    100040: Pieces_for_the_witchboy
+    100042: Pieces_for_the_witchboy1
+    100044: Pieces_for_the_witchboy2
+    100046: polySurface1
+    100048: polySurface1 1
+    100050: polySurface2
+    100052: polySurface2 1
+    100054: polySurface3
+    100056: polySurface3 1
+    100058: polySurface3 2
+    100060: polySurface3 3
+    100062: polySurface4
+    100064: polySurface4 1
+    100066: polySurface5
+    100068: polySurface5 1
+    100070: polySurface5 2
+    100072: polySurface5 3
+    100074: pSphere10
+    100076: pSphere10 1
+    100078: pSphere11
+    100080: pSphere11 1
+    100082: pSphere2
+    100084: pSphere2 1
+    100086: pSphere3
+    100088: pSphere3 1
+    100090: pSphere4
+    100092: pSphere4 1
+    100094: pSphere5
+    100096: pSphere5 1
+    100098: pSphere6
+    100100: pSphere6 1
+    100102: pSphere7
+    100104: pSphere7 1
+    100106: pSphere8
+    100108: pSphere8 1
+    100110: pSphere9
+    100112: pSphere9 1
+    100114: transform1
+    100116: transform1 1
+    100118: transform10
+    100120: transform11
+    100122: transform12
+    100124: transform13
+    100126: transform14
+    100128: transform15
+    100130: transform16
+    100132: transform17
+    100134: transform18
+    100136: transform19
+    100138: transform2
+    100140: transform2 1
+    100142: transform20
+    100144: transform21
+    100146: transform22
+    100148: transform23
+    100150: transform24
+    100152: transform25
+    100154: transform26
+    100156: transform27
+    100158: transform3
+    100160: transform3 1
+    100162: transform4
+    100164: transform4 1
+    100166: transform5
+    100168: transform5 1
+    100170: transform6
+    100172: transform6 1
+    100174: transform7
+    100176: transform7 1
+    100178: transform8
+    100180: transform8 1
+    100182: transform9
+    100184: //RootNode
+    400000: pCube1
+    400002: pCube1 1
+    400004: pCube10
+    400006: pCube10 1
+    400008: pCube2
+    400010: pCube2 1
+    400012: pCube3
+    400014: pCube3 1
+    400016: pCube4
+    400018: pCube4 1
+    400020: pCube5
+    400022: pCube5 1
+    400024: pCube6
+    400026: pCube6 1
+    400028: pCube7
+    400030: pCube7 1
+    400032: pCube8
+    400034: pCube8 1
+    400036: pCube9
+    400038: pCube9 1
+    400040: Pieces_for_the_witchboy
+    400042: Pieces_for_the_witchboy1
+    400044: Pieces_for_the_witchboy2
+    400046: polySurface1
+    400048: polySurface1 1
+    400050: polySurface2
+    400052: polySurface2 1
+    400054: polySurface3
+    400056: polySurface3 1
+    400058: polySurface3 2
+    400060: polySurface3 3
+    400062: polySurface4
+    400064: polySurface4 1
+    400066: polySurface5
+    400068: polySurface5 1
+    400070: polySurface5 2
+    400072: polySurface5 3
+    400074: pSphere10
+    400076: pSphere10 1
+    400078: pSphere11
+    400080: pSphere11 1
+    400082: pSphere2
+    400084: pSphere2 1
+    400086: pSphere3
+    400088: pSphere3 1
+    400090: pSphere4
+    400092: pSphere4 1
+    400094: pSphere5
+    400096: pSphere5 1
+    400098: pSphere6
+    400100: pSphere6 1
+    400102: pSphere7
+    400104: pSphere7 1
+    400106: pSphere8
+    400108: pSphere8 1
+    400110: pSphere9
+    400112: pSphere9 1
+    400114: transform1
+    400116: transform1 1
+    400118: transform10
+    400120: transform11
+    400122: transform12
+    400124: transform13
+    400126: transform14
+    400128: transform15
+    400130: transform16
+    400132: transform17
+    400134: transform18
+    400136: transform19
+    400138: transform2
+    400140: transform2 1
+    400142: transform20
+    400144: transform21
+    400146: transform22
+    400148: transform23
+    400150: transform24
+    400152: transform25
+    400154: transform26
+    400156: transform27
+    400158: transform3
+    400160: transform3 1
+    400162: transform4
+    400164: transform4 1
+    400166: transform5
+    400168: transform5 1
+    400170: transform6
+    400172: transform6 1
+    400174: transform7
+    400176: transform7 1
+    400178: transform8
+    400180: transform8 1
+    400182: transform9
+    400184: //RootNode
+    2100000: lambert1
+    2100002: little_character_lambert2
+    2300000: pCube10
+    2300002: pCube3
+    2300004: pCube4
+    2300006: pCube5
+    2300008: pCube6
+    2300010: pCube8
+    2300012: pCube9
+    2300014: Pieces_for_the_witchboy2
+    2300016: polySurface1
+    2300018: polySurface5
+    2300020: pSphere10
+    2300022: pSphere11
+    2300024: pSphere2
+    2300026: pSphere3
+    2300028: pSphere4
+    2300030: pSphere5
+    2300032: pSphere6
+    2300034: pSphere7
+    2300036: pSphere8
+    2300038: pSphere9
+    3300000: pCube10
+    3300002: pCube3
+    3300004: pCube4
+    3300006: pCube5
+    3300008: pCube6
+    3300010: pCube8
+    3300012: pCube9
+    3300014: Pieces_for_the_witchboy2
+    3300016: polySurface1
+    3300018: polySurface5
+    3300020: pSphere10
+    3300022: pSphere11
+    3300024: pSphere2
+    3300026: pSphere3
+    3300028: pSphere4
+    3300030: pSphere5
+    3300032: pSphere6
+    3300034: pSphere7
+    3300036: pSphere8
+    3300038: pSphere9
+    4300000: pCube3
+    4300002: pCube4
+    4300004: pCube5
+    4300006: pCube6
+    4300008: polySurface1
+    4300010: polySurface5
+    4300012: pCube8
+    4300014: pSphere2
+    4300016: pSphere3
+    4300018: pSphere4
+    4300020: pSphere5
+    4300022: pSphere6
+    4300024: pSphere7
+    4300026: pSphere8
+    4300028: pSphere9
+    4300030: pCube9
+    4300032: pSphere10
+    4300034: pSphere11
+    4300036: pCube10
+    4300038: Pieces_for_the_witchboy2
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

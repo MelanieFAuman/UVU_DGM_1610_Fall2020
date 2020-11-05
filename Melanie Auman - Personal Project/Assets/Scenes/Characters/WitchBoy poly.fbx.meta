@@ -1,11 +1,102 @@
 fileFormatVersion: 2
 guid: b66d61014e6e6bd4998ff0ae20854cdf
 ModelImporter:
-  serializedVersion: 20101
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: pCube10
+    100002: pCube3
+    100004: pCube4
+    100006: pCube5
+    100008: pCube6
+    100010: pCube7
+    100012: pCube8
+    100014: pCube9
+    100016: Pieces_for_the_witchboy1
+    100018: Pieces_for_the_witchboy2
+    100020: polySurface1
+    100022: polySurface5
+    100024: pSphere10
+    100026: pSphere11
+    100028: pSphere2
+    100030: pSphere3
+    100032: pSphere4
+    100034: pSphere5
+    100036: pSphere6
+    100038: pSphere7
+    100040: pSphere8
+    100042: pSphere9
+    100044: transform10
+    100046: transform11
+    100048: transform12
+    100050: transform13
+    100052: transform14
+    100054: transform15
+    100056: transform16
+    100058: transform17
+    100060: transform18
+    100062: transform19
+    100064: transform20
+    100066: transform21
+    100068: transform22
+    100070: transform23
+    100072: transform24
+    100074: transform25
+    100076: transform26
+    100078: transform27
+    100080: transform9
+    100082: //RootNode
+    400000: pCube10
+    400002: pCube3
+    400004: pCube4
+    400006: pCube5
+    400008: pCube6
+    400010: pCube7
+    400012: pCube8
+    400014: pCube9
+    400016: Pieces_for_the_witchboy1
+    400018: Pieces_for_the_witchboy2
+    400020: polySurface1
+    400022: polySurface5
+    400024: pSphere10
+    400026: pSphere11
+    400028: pSphere2
+    400030: pSphere3
+    400032: pSphere4
+    400034: pSphere5
+    400036: pSphere6
+    400038: pSphere7
+    400040: pSphere8
+    400042: pSphere9
+    400044: transform10
+    400046: transform11
+    400048: transform12
+    400050: transform13
+    400052: transform14
+    400054: transform15
+    400056: transform16
+    400058: transform17
+    400060: transform18
+    400062: transform19
+    400064: transform20
+    400066: transform21
+    400068: transform22
+    400070: transform23
+    400072: transform24
+    400074: transform25
+    400076: transform26
+    400078: transform27
+    400080: transform9
+    400082: //RootNode
+    2100000: lambert1
+    2100002: little_character_lambert2
+    2300000: Pieces_for_the_witchboy2
+    3300000: Pieces_for_the_witchboy2
+    4300000: Pieces_for_the_witchboy2
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -38,32 +129,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -72,10 +156,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -85,16 +169,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
