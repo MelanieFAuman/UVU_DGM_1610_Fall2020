@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 365524764738924573}
   - component: {fileID: 365524764738924570}
   - component: {fileID: 365524764738924571}
-  - component: {fileID: 365524764738924574}
+  - component: {fileID: 8658433765539985751}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemy
@@ -109,7 +109,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &365524764738924574
+--- !u!114 &8658433765539985751
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
