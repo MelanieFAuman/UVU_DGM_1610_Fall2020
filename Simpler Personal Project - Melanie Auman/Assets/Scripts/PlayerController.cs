@@ -35,7 +35,12 @@ public class PlayerController : MonoBehaviour
 
         transform.Translate(Vector3.forward * Time.deltaTime * speed * horizontalInput);
         transform.Translate(Vector3.up * Time.deltaTime * speed * verticalInput);
-
+        
+        if (Input.GetKeyDown(KeyCode.Space) && !gameOver)
+        {
+            playerRb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+            isOnGround = false;
+        }
         //Boundries
       
     }
