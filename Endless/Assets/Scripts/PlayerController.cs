@@ -17,8 +17,6 @@ public class PlayerController : MonoBehaviour
 
     private GameManager gameManager;
 
-    public int pointValue;
-
     public GameObject effect;
 
     // Start is called before the first frame update
