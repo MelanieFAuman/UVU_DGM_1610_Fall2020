@@ -25,6 +25,7 @@ public class Obstical : MonoBehaviour
 
         if (other.gameObject.CompareTag("Player"))
         {
+
             other.GetComponent<PlayerController>().health -= damage;
             Debug.Log(other.GetComponent<PlayerController>().health);
 

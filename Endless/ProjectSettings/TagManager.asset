@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Obstical
   - Enemy
+  - Point
   layers:
   - Default
   - TransparentFX

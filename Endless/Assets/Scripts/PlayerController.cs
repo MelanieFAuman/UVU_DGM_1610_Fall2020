@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+
 
 public class PlayerController : MonoBehaviour
 {
@@ -13,10 +15,16 @@ public class PlayerController : MonoBehaviour
 
     public int health = 3;
 
+    private GameManager gameManager;
+
+    public int pointValue;
+
+    public GameObject effect;
+
     // Start is called before the first frame update
     void Start()
     {
-
+        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
     }
 
     // Update is called once per frame
@@ -36,12 +44,10 @@ public class PlayerController : MonoBehaviour
       //Game over
       if (health <= 0)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            Instantiate(effect, transform.position, effect.transform.rotation);
+
+            gameManager.GameOver();
         }
     }
 
-
-    private void OnCollisionEnter(Collision collision)
-    {
-    }
 }
