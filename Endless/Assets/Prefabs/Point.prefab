@@ -104,4 +104,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad7b9e2dd92c9f84c88c033bd9cf0884, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointValue: 1
+  point: {fileID: 0}
+  regen: 1
+  speed: 3
